@@ -1,0 +1,27 @@
+{
+  "name": "for-seeding",
+  "version": "1.0.0",
+  "description": "an app to providing my seeding needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spriggs81/for-seeding.git"
+  },
+  "keywords": [
+    "seeding",
+    "seed",
+    "fake",
+    "data",
+    "create",
+    "data"
+  ],
+  "author": "john spriggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spriggs81/for-seeding/issues"
+  },
+  "homepage": "https://github.com/spriggs81/for-seeding#readme"
+}
