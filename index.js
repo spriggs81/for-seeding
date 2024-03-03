@@ -1,6 +1,5 @@
-const user = require('./lib/users')
-const product = require('./lib/products')
-const api = require('./lib/companies')
+const user      = require('./lib/users')
+const company   = require('./lib/companies')
+const product   = require('./lib/products')
 
-export default user;
-export {product}
+module.exports = {user,company,product}
